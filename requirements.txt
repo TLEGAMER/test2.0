@@ -1,0 +1,7 @@
+discord.py
+yt-dlp
+Flask
+pynacl
+ffmpeg==1.4
+ffmpegio==0.10.0.post0
+ffmpegio-core==0.10.0
